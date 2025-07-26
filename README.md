@@ -1,4 +1,4 @@
-# Password Generator (Basic Version)
+# Password Generator
 
 This is a simple password generator written in Python. It was created as my first beginner project.
 
@@ -25,6 +25,7 @@ Include lowercase letters? (y/n): y
 Include digits? (y/n): y
 Include special characters? (y/n): n
 Generated Password: jyq1daZ0vE
+Generate another password? (y/n): 
 ```
 ## How to Run
 
