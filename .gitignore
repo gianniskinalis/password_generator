@@ -1,4 +1,17 @@
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+
+# Environment
 .env
+
+# Logs
 *.log
+
+# Optional output files
+*.txt
+*.csv
+
+# IDE settings (if you use these)
+.vscode/
+.idea/
